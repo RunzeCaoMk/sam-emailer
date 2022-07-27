@@ -1,4 +1,4 @@
-package edu.uchicago.caor.email;
+package edu.uchicago.caor.emailer;
 
 public class Message {
 
